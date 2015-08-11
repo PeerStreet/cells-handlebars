@@ -1,5 +1,5 @@
 require "cell/handlebars/version"
-require 'tilt/handlebars'
+require "tilt/handlebars_template"
 
 module Cell
   module Handlebars
